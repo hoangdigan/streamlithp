@@ -2,10 +2,10 @@ import streamlit as st
 import pandas
 
 
-data =[
+data ={
     'series1': [1,3,4,5,7],
     'series2': [10.30.40.60.70]
-]
+}
 
 df=pandas.DataFrame(data)
 
