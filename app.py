@@ -17,3 +17,4 @@ st.write("""
 """)
 
 st.write(df)
+st.line_chart(df)
